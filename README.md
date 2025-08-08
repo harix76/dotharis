@@ -4,7 +4,7 @@
 **JavaScript Developer | WordPress & PHP Developer**
 
 ### 👨‍💻 About me
-I build responsive web apps using **React** and modern JavaScript.  
+I am learning to build responsive web apps using **React** and modern JavaScript.  
 I also have hands-on experience in **WordPress development** with **custom PHP tweaks** for themes and plugins.  
 Currently, I focus on blending modern frontend workflows with CMS-powered websites for performance and scalability.
 
