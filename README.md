@@ -1,7 +1,7 @@
 # 👋 Hi — I'm Haris Altaf
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="cool-blob" />
 
-**JavaScript Developer • React | WordPress & PHP Developer**
+**JavaScript Developer | WordPress & PHP Developer**
 
 ### 👨‍💻 About me
 I build responsive web apps using **React** and modern JavaScript.  
@@ -22,30 +22,23 @@ Currently, I focus on blending modern frontend workflows with CMS-powered websit
 ```javascript
 const haris = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "React", "PHP", "HTML", "CSS"],
-    askMeAbout: ["web development", "WordPress customization", "PHP tweaks", "UI/UX", "frontend performance"],
+    code: ["JavaScript", "PHP", "HTML", "CSS"],
+    learning: ["React", "Next.js"],
+    askMeAbout: ["JavaScript development", "WordPress customization", "PHP tweaks", "frontend performance"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"],
-            uiLibraries: ["Material UI", "Ant Design"],
+            js: ["JavaScript (ES6+)", "React*", "Next.js*"], // * = learning
+            css: ["Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Custom WordPress themes", "Plugin development"],
+            php: ["WordPress theme customization", "Plugin development"],
         },
         cms: {
             platforms: ["WordPress"],
         },
-        devOps: ["Git", "CI/CD", "cPanel", "Hosting setup"],
-        databases: ["MySQL", "SQLite"],
-        misc: ["REST APIs", "SEO optimization", "Performance tuning"],
+        tools: ["Git", "Chrome DevTools", "cPanel"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["monolithic", "serverless"],
-        databases: ["Relational"],
-    },
-    currentFocus: "Building responsive React applications and enhancing WordPress sites with custom PHP solutions",
-    funFact: "I can debug faster when the coffee is strong and the playlist is good 🎧☕"
+    currentFocus: "Improving JavaScript skills while building custom WordPress solutions with PHP",
+    funFact: "I write cleaner code when I have coffee nearby ☕"
 };
+
